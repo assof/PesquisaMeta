@@ -1,0 +1,19 @@
+body{
+		font-family: 'Titillium Web', sans-serif !important;
+
+	}
+
+	buttom.btn.btn-secondary.ml-3.justify-content-center.align-items-center {
+    background: #f3d910;
+    border-radius: 0px;
+    color: #2d2d2d;
+    border: none;
+}
+
+buttom.btn.btn-secondary.ml-3.justify-content-center.align-items-center:hover {
+    background: #d0ba16;
+}
+
+th,td {
+    font-size: 12px;
+}
